@@ -5,3 +5,4 @@ Principal Component Analysis Code:
 - **Eigen Decomposition**
 - **Kernel SVM**
 - **SVD (Singular Value Decomposition)**
+- ROC Curve
